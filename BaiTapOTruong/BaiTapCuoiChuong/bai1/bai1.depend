@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1484323455 source:d:\baitapotruong\baitapcuoichuong\bai1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1520431352 source:d:\git\chellong98coder\laptrinhc\thuattoanc\bubblesort\main.c
+	<stdio.h>
+	<stdlib.h>
+

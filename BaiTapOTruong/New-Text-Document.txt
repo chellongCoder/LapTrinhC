@@ -1,0 +1,42 @@
+#include <stdio.h>
+#include <conio.h>
+#include <stdlib.h>
+
+typedef struct {
+    char HoTen[30];
+    int tuoi;
+    char QueQuan[30];
+}sinhvien;
+sinhvien *SV;
+
+void TaoDanhSach () {
+    int i;
+    for (i=0; i<n; i++) {
+        printf("\nho ten sinh vien thu %d: ",i+1);
+        fflush(stdin);
+        gets((SV+i)->hoten);
+        printf("nhap vao tuoi: ");
+        (SV+i)->namsinh = rand()%100;
+        printf("nhap vao que quan: ");
+        fflush(stdin);
+        gets((SV+i)->QueQuan);
+    }
+}
+//in danh sách
+void InDanhSach (int n, sinhvien *SV) {
+    int i;
+    printf("\n%-20s %-30s %-20s\n", "STT", "Ho Va Ten", "Tuoi", "Que Quan");
+    printf("=================================================================================================\n");
+    for (i=0; i<n; i++) {
+        printf("%-20d %-30d %-20s\n",i+1, (SV+i)->hoten, (SV+i)->tuoi, (SV+i)->QueQuan );
+    }
+}
+int main ()
+{
+    int n;
+    printf("nhap vao so sinh vien: ");
+    scanf("%d",&n);
+    SV = (sinhvien*)malloc(sizeof(sinhvien));
+    
+    return 0;
+}

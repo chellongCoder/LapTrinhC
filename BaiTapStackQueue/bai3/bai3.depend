@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1507281068 source:d:\longgiaithuat\thuattoanc\baitapstackqueue\bai3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1519392805 source:d:\git\chellong98.java.io\laptrinhc\baitapkythuatlaptrinh\bai6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

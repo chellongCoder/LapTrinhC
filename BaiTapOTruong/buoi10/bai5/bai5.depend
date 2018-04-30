@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1489755785 source:d:\baitapotruong\buoi10\bai5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
