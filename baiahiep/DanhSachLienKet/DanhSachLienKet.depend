@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1481805544 source:d:\baitaplact\baiahiep\danhsachlienket\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1488331843 source:d:\baitaplact\baithaytuananh-l09\spoj\buoi2\set21\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

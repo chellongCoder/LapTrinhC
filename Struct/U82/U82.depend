@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1483695380 source:d:\baitapotruong\buoi1\u82\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1484315917 source:d:\baitaplact\struct\u82\main.c
+	<stdio.h>
+	<stdlib.h>
+

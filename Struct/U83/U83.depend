@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1490953333 source:d:\baitaplact\struct\u83\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+

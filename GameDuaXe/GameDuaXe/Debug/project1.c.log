@@ -1,0 +1,19 @@
+﻿Build started 12/24/2016 7:07:49 AM.
+     1>Project "D:\baitapLACT\GameDuaXe\GameDuaXe\project1.c.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\project1.c.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       ResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         project1.c.vcxproj -> D:\baitapLACT\GameDuaXe\GameDuaXe\Debug\project1.c.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\project1.c.unsuccessfulbuild".
+         Touching "Debug\project1.c.lastbuildstate".
+     1>Done Building Project "D:\baitapLACT\GameDuaXe\GameDuaXe\project1.c.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.85

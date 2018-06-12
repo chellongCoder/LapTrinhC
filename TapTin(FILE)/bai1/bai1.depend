@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1486108374 source:d:\baitaplact\taptin(file)\bai1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

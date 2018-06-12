@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1479547895 source:d:\baitaplact\mangvacontro\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+

@@ -1,0 +1,4 @@
+c?a tôi </a>
+			<h4 style="color: pink">let's write a paragraph talking about my daily....</h4>
+			<p style="text-align: center; font-size: 30px"><b><em>My everyday routine starts when the alarm clock goes off loudly. I reach to shut it off and try to open my eyes to see what time it is but my eyelids are so heavy as though glue was in my eyes.<br/> I knew I had to get up to go to work, so I rolled over, stood up and go down to the bathroom. I am still not awake yet but I know if I don't get started now I will be late for work. Finally I am ready to go.<br/> <span style="color: white"> I try to remember not to forget anything as I mumble to myself,</span> “I grabbed my clothes for work, my wallet, my keys, and my cell phone.” I slam the door and fly out the house getting everything in about ten minutes. Such is the way I am doing every morning </em></b></p>
+			<h3> thông tin cá nhân c?a tôi</h3>

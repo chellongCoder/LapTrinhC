@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1483367347 source:d:\baitaplact\su dung mang\u53\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

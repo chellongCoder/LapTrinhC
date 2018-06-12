@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1477362580 source:d:\baitaplact\mang2chieu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+

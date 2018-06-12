@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1479986138 source:d:\baitaplact\contro\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdlib.h>
+	<math.h>
+

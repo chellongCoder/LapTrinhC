@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1483075755 source:d:\baitaplact\thi hoc ki c part 2\bai10\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

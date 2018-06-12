@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1482421326 source:d:\baitaplact\eragon team\phan4\bai2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

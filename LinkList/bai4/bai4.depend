@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1484312303 source:d:\baitaplact\linklist\bai4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+

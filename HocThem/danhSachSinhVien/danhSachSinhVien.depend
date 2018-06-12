@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1491021291 source:d:\baitaplact\hocthem\danhsachsinhvien\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

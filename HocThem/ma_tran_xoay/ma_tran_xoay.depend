@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1491237097 source:d:\baitaplact\hocthem\ma_tran_xoay\main.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+

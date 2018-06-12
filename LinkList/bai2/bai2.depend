@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1484067159 source:d:\baitaplact\linklist\bai2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1485696877 source:d:\baitaplact\chuoi(string)\hamstrstr\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<math.h>
+

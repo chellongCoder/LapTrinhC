@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1484459441 source:d:\baitaplact\bai-tap-1\bai2\main.c
+	<stdio.h>
+	<stdlib.h>
+

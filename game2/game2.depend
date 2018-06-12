@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1482373518 source:d:\baitaplact\game2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<string.h>
+	<time.h>
+

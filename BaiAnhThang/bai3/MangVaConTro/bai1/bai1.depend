@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1489807126 source:d:\baitaplact\baianhthang\bai3\mangvacontro\bai1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

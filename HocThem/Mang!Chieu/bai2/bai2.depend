@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1489481336 source:d:\baitaplact\hocthem\mang!chieu\bai2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
