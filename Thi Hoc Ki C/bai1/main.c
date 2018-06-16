@@ -3,6 +3,7 @@
 #include <math.h>
 #include <string.h>
 //Câu 1: Viết chương trình giải phương trình bậc hai: ax2 + bx + c = 0, với a, b, c là các hệ số thực nhập vào từ bàn phím
+
 int main()
 {
     int a,b,c;
@@ -19,7 +20,7 @@ int main()
             }
         }
         else {
-            printf("puhuong trinh co nghiem duy nhat x=%0.2f\n", (float)-c/b);
+            printf("phuong trinh co nghiem duy nhat x=%0.2f\n", (float)-c/b);
         }
     }
     else {

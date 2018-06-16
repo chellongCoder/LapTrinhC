@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1529081096 source:/home/chellong/GIT/LapTrinhC/Thi Hoc Ki C/test/main.c
+	<stdio.h>
+	<stdlib.h>
+

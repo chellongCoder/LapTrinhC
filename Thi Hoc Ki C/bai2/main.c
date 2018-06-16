@@ -8,6 +8,7 @@
 	//. . .	. . .
 //cho đến năm có GDP >= 2 lần năm 2014 thì dừng.
 
+
 int main ()
 {
     int nam=2014;
